@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600&display=swap");
+.faq-container {
+  font-family: "Hind Siliguri", sans-serif;
+}
+.faq-container .faq .cards-list-info {
+  display: flex;
+  justify-content: space-between;
+}
+.faq-container .faq .cards-list-info .card-info {
+  width: 30%;
+}
+.faq-container .faq .cards-list-info .card-info .img-Faq {
+  display: flex;
+  justify-content: center;
+}
+.faq-container .faq .cards-list-info .card-info .img-Faq img {
+  height: 200px;
+}
+.faq-container .faq .cards-list-info .card-info .title-info {
+  text-align: justify;
+}
+.faq-container .faq .cards-list-info .card-info .title-info h2 {
+  text-align: center;
+}
+
+/*# sourceMappingURL=Faq_style.css.map */

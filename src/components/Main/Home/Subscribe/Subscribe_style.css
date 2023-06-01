@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600&display=swap");
+.subscribe-container {
+  font-family: "Hind Siliguri", sans-serif;
+  background-color: #F4F9FC;
+  margin-top: 30px;
+}
+.subscribe-container .subscribe {
+  padding: 50px 9% 50px 9%;
+  display: flex;
+  justify-content: space-between;
+}
+.subscribe-container .subscribe .user-contact {
+  width: 40%;
+}
+.subscribe-container .subscribe .user-contact h3 {
+  color: #C72535;
+  opacity: 0.6;
+  font-size: 22px;
+}
+.subscribe-container .subscribe .user-contact h2 {
+  font-bold: 500;
+  font-size: 28px;
+}
+.subscribe-container .subscribe .user-contact p {
+  opacity: 0.6;
+  font-size: 22px;
+}
+.subscribe-container .subscribe .input-user {
+  display: flex;
+  align-items: center;
+}
+.subscribe-container .subscribe .input-user div input {
+  border-radius: 1px solid grey;
+  padding: 27px;
+  width: 300px;
+}
+.subscribe-container .subscribe .input-user div button {
+  padding: 27px;
+  color: white;
+  background-color: #247CC0;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=Subscribe_style.css.map */

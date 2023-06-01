@@ -1,0 +1,24 @@
+.footer-container footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 9% 0 9%;
+  background-color: #2c506c;
+  color: aliceblue;
+}
+.footer-container footer .logo-footer-box {
+  width: 20%;
+}
+.footer-container footer .information-menu .block-info {
+  margin-bottom: 20px;
+}
+.footer-container footer .the-store {
+  width: 20%;
+}
+.footer-container footer .the-store .icons-sociable {
+  margin-bottom: 10px;
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=Footer_style.css.map */

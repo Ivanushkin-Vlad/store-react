@@ -1,0 +1,30 @@
+.footer-container{
+
+
+  footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 9% 0 9%;
+    background-color: #2c506c;
+    color: aliceblue;
+    .logo-footer-box{
+      width: 20%;
+    }
+    .information-menu{
+      .block-info{
+        margin-bottom: 20px;
+
+      }
+    }
+    .the-store{
+      width: 20%;
+      .icons-sociable{
+        margin-bottom: 10px;
+        display: flex;
+        width: 60%;
+        justify-content: space-between;
+      }
+    }
+
+  }
+}

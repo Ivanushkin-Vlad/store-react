@@ -1,0 +1,11 @@
+.products-container {
+  padding: 30px 9% 30px 9%;
+}
+.products-container .products {
+  display: flex;
+}
+.products-container .products .filter-products {
+  width: 30%;
+}
+
+/*# sourceMappingURL=Product_style.css.map */

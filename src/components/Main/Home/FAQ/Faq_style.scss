@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600&display=swap');
+$topFont:'Hind Siliguri', sans-serif;
+.faq-container{
+
+  font-family: $topFont;
+  .faq{
+    .cards-list-info{
+      display: flex;
+      justify-content: space-between;
+      .card-info{
+        width: 30%;
+        .img-Faq{
+          display: flex;
+          justify-content: center;
+          img{
+            height: 200px;
+          }
+
+        }
+        .title-info{
+          text-align: justify;
+          h2{
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+
+
+}

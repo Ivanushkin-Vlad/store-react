@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600&display=swap');
+$topFont:'Hind Siliguri', sans-serif;
+.home-container{
+    //padding: 10px 9% 0 9%;
+    font-family: $topFont;
+    .home{
+        padding: 10px 9% 0 9%;
+    }
+
+
+}
+.slider_btn{
+    background: #abc692de;
+    border-radius: 50px;
+    color: #fff;
+    font-family: Segoe,sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    padding: 10px 16px;
+    position: relative;
+    top: 140%;
+    margin-bottom: 20px;
+}
+.slider_imgBox{
+    img{
+        border-radius: 10px;
+    }
+
+}
