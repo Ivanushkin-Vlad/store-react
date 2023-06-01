@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/store-react/static/css/main.28b61476.css",
+    "main.js": "/store-react/static/js/main.08be136a.js",
+    "static/media/image_Xiomi.jpg": "/store-react/static/media/image_Xiomi.491efefc927bb91dfe44.jpg",
+    "static/media/image_Samsung.jpg": "/store-react/static/media/image_Samsung.8704ea0ac32cd2d14f1f.jpg",
+    "static/media/image_MacBook.jpg": "/store-react/static/media/image_MacBook.852aa902e0ed33aaeca6.jpg",
+    "static/media/Faq_delivery.jpg": "/store-react/static/media/Faq_delivery.998b64a7a556d7dc09ca.jpg",
+    "static/media/Faq_repair.jpg": "/store-react/static/media/Faq_repair.24123f549409f4778875.jpg",
+    "index.html": "/store-react/index.html",
+    "main.28b61476.css.map": "/store-react/static/css/main.28b61476.css.map",
+    "main.08be136a.js.map": "/store-react/static/js/main.08be136a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b61476.css",
+    "static/js/main.08be136a.js"
+  ]
+}
