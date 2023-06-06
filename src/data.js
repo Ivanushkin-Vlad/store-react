@@ -38,7 +38,7 @@ let data = {
       listSlider:{
           items:[
               {id: 1, h1:'SAMSUNG', title: "Galaxy S23 -", description: "Play and Win", image: samsung, button:"Read more"},
-              {id: 2, h1:'MAC', title: "MacBook Air M1 -",description: "Better and Faster", image: mac,button:"Read more"},
+              {id: 2, h1:'MAC', title: "Gold -",description: "Symbols of courage and courage, power and generosity.", image: mac,button:"Read more"},
               {id: 3, h1:'PHILIPS', title: "iPad Pro M1 -",description: "Productivity new Generation", image: xiomi,button:"Read more"},
           ]
       },
