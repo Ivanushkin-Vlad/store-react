@@ -1,0 +1,40 @@
+.container-card-title {
+  padding: 30px 5% 30px 5%;
+}
+.container-card-title .btn-handler {
+  background: rgba(171, 198, 146, 0.8705882353);
+  border-radius: 50px;
+  color: #fff;
+  font-family: Segoe, sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  padding: 10px 16px;
+  position: relative;
+  top: 140%;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.container-card-title .container-card {
+  display: flex;
+  justify-content: space-between;
+}
+.container-card-title .container-card img {
+  width: 400px;
+}
+.container-card-title .container-card .title-product-div {
+  padding-top: 100px;
+  margin-left: 50px;
+}
+.container-card-title .container-card .title-product-div .btn-basket {
+  background: rgba(171, 198, 146, 0.8705882353);
+  border-radius: 50px;
+  color: #fff;
+  font-family: Segoe, sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  padding: 10px 16px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=TitleProduct_style.css.map */

@@ -18,6 +18,10 @@
   top: 140%;
   margin-bottom: 20px;
 }
+.slider_btn a {
+  color: white;
+  text-decoration: none;
+}
 
 .slider_imgBox img {
   border-radius: 10px;

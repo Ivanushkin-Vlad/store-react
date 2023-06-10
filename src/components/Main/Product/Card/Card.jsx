@@ -1,7 +1,15 @@
 import './Card_style.css';
+import {useNavigate} from "react-router-dom";
 
 const Card = (props) =>{
     console.log(props)
+    let navigate = useNavigate()
+
+    let titleProductView = (id) => {
+
+        navigate(`/Product/${id}`)
+
+    }
     return(
         <div className='card-container'>
             <div className='card-image'>
@@ -12,8 +20,8 @@ const Card = (props) =>{
                     <h2>{props.title}</h2>
                     <h3>{props.price}$</h3>
                 </div>
-                <div>
-                    <button>View product</button>
+                <div className='btn-container-view'>
+                    <button onClick={()=>{titleProductView(props.id)}} className='btn-view'>View product</button>
                 </div>
             </div>
         </div>

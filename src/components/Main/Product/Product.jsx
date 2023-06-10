@@ -86,7 +86,7 @@ const Product = () => {
                             filteredProduct.map((item) => {
                                 return (
                                     <Card title={item.title} img={item.image} price={item.price}
-                                          category={item.category} rewievs={item.rating}/>
+                                          category={item.category} rewievs={item.rating} id = {item.id}/>
                                 )
                             })
                         }

@@ -11,6 +11,7 @@ import "../../../App.css";
 import { Autoplay, Pagination, Navigation } from "swiper";
 import FAQ from "./FAQ/FAQ";
 import Subscribe from "./Subscribe/Subscribe";
+import {NavLink} from "react-router-dom";
 
 const Home = ({data}) => {
     console.log(data.listSlider.items)
@@ -42,7 +43,7 @@ const Home = ({data}) => {
                                                     {slide.title}<span> {slide.description}</span>
                                                 </h1>
                                                 <button className="slider_btn" type="button">
-                                                    {slide.button}
+                                                    <NavLink to='/Product'>{slide.button}</NavLink>
                                                     <span> <FontAwesomeIcon icon={faArrowRight}/></span>
                                                 </button>
                                             </div>

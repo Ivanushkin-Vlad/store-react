@@ -1,0 +1,42 @@
+.container-card-title{
+  padding: 30px 5% 30px 5%;
+  .btn-handler{
+    background: #abc692de;
+    border-radius: 50px;
+    color: #fff;
+    font-family: Segoe,sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    padding: 10px 16px;
+    position: relative;
+    top: 140%;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  .container-card{
+
+
+    img{
+      width: 400px;
+    }
+    display: flex;
+    justify-content: space-between;
+    .title-product-div{
+      padding-top: 100px;
+      margin-left: 50px
+    ;
+      .btn-basket{
+        background: #abc692de;
+        border-radius: 50px;
+        color: #fff;
+        font-family: Segoe,sans-serif;
+        font-size: 16px;
+        line-height: 1;
+        padding: 10px 16px;
+        margin-bottom: 20px;
+        cursor: pointer;
+      }
+    }
+  }
+
+}
