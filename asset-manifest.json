@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/store-react/static/css/main.a30a6293.css",
-    "main.js": "/store-react/static/js/main.e6908718.js",
+    "main.css": "/store-react/static/css/main.13e6f051.css",
+    "main.js": "/store-react/static/js/main.b4716251.js",
     "static/media/image_Xiomi.jpg": "/store-react/static/media/image_Xiomi.491efefc927bb91dfe44.jpg",
     "static/media/image_MacBook.jpg": "/store-react/static/media/image_MacBook.5428449b2460cfd163af.jpg",
     "static/media/image_Samsung.jpg": "/store-react/static/media/image_Samsung.8704ea0ac32cd2d14f1f.jpg",
@@ -9,11 +9,11 @@
     "static/media/Faq_repair.jpg": "/store-react/static/media/Faq_repair.24123f549409f4778875.jpg",
     "static/media/icon_plus_goods.png": "/store-react/static/media/icon_plus_goods.7cb4fbbd8c97bab65570.png",
     "index.html": "/store-react/index.html",
-    "main.a30a6293.css.map": "/store-react/static/css/main.a30a6293.css.map",
-    "main.e6908718.js.map": "/store-react/static/js/main.e6908718.js.map"
+    "main.13e6f051.css.map": "/store-react/static/css/main.13e6f051.css.map",
+    "main.b4716251.js.map": "/store-react/static/js/main.b4716251.js.map"
   },
   "entrypoints": [
-    "static/css/main.a30a6293.css",
-    "static/js/main.e6908718.js"
+    "static/css/main.13e6f051.css",
+    "static/js/main.b4716251.js"
   ]
 }
